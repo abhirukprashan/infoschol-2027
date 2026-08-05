@@ -7,6 +7,10 @@
 # #     if marks>100:
 # #         print("wrong marks ")
 
+
+
+
+### adasdasd
 # #     elif marks>=70:
 # #         print("A")
 # #     elif marks>=60:
